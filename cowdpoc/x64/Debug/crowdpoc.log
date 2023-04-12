@@ -1,0 +1,28 @@
+﻿  crowdpoc.cpp
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(12,1): warning C4005: 'NT_SUCCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winternl.h(902,1): message : see previous definition of 'NT_SUCCESS'
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(67,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(67,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(71,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(71,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(75,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(75,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(79,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(79,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(84,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(84,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(116,13): warning C4244: 'argument': conversion from 'DWORD' to 'INTERNET_PORT', possible loss of data
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(118,47): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(118,47): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(127,50): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(127,50): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(136,45): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(136,45): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(150,62): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(150,62): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(486,69): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(673,35): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(673,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(677,71): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\test\Downloads\cowdpoc\crowdpoc.cpp(684,38): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  crowdpoc.vcxproj -> C:\Users\test\Downloads\cowdpoc\x64\Debug\crowdpoc.exe
