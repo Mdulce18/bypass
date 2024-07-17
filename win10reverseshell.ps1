@@ -13,6 +13,9 @@ just a silly experiment :)
 Author: Tobias Neitzel (@qtc_de)
 License: GPL-3.0 License
 
+FAQ:
+When you run a PowerShell script in a Windows environment, you have full access to the .NET Framework classes and methods.
+PowerShell is based on .NET. This allows advanced .NET features, such as reflection, to be used directly within a .ps1 script.
 #>
 
 $IP = "127.0.0.1"
