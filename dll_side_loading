@@ -1,0 +1,6 @@
+https://github.com/Cybereason/siofra - Check for inyectable DLLs
+https://github.com/Flangvik/SharpDllProxy / https://redteaming.co.uk/2020/07/12/dll-proxy-loading-your-favorite-c-implant/ - File creator
+https://havocframework.com/docs/welcome - Payload C2
+https://book.hacktricks.xyz/windows-hardening/av-bypass - Instructions & Obfuscators 
+https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-1-733d423fc67b - Useful v1
+https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-2-d3ac83589e3a - Useful v2
