@@ -16,6 +16,9 @@ License: GPL-3.0 License
 FAQ:
 When you run a PowerShell script in a Windows environment, you have full access to the .NET Framework classes and methods.
 PowerShell is based on .NET. This allows advanced .NET features, such as reflection, to be used directly within a .ps1 script.
+
+In short, System.dll is not loaded explicitly in the script; it is already loaded as part of the .NET runtime.
+The script simply uses reflection to access the types and methods already available in System.dll.
 #>
 
 $IP = "127.0.0.1"
